@@ -1,0 +1,16 @@
+{
+  "name": "nazwa-projektu",
+  "version": "1.0.0",
+  "description": "Opis projektu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Autor",
+  "license": "Licencja",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
